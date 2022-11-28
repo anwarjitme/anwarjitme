@@ -1,4 +1,4 @@
-<h1>Hi I'm Anwar Hossain</h1>
+<h1 style="margine:auto;" >Hi I'm Anwar Hossain</h1>
 <!--
 **anwarjitme/anwarjitme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
