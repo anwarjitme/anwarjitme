@@ -8,7 +8,7 @@
 </div>
 <ul>
   <li>📫 My Portfolio : <a href="https://anwarjitme.github.io/">https://anwarjitme.github.io/</a></li>
-  <li></li>
+  <li>📫 How to reach me :<a href="er.mdhossain@gmail.com">er.mdhossain@gmail.com</a></li>
   <li></li>
   <li></li>
 </ul>
