@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/anwarjitme/anwarjitme/blob/main/Anwar%20Hossain.png) -->
 <img align="center" src="https://github.com/anwarjitme/anwarjitme/blob/main/Anwar%20Hossain.png" alt="logo" />
 <h1 align="left">Hi 👋, I'm Anwar Hossain</h1>
-<h3 align="left">A passionate full stack web developer</h3>
+<div width="200" align="left"><h3 align="left" >An aspiring Full Stack Developer, that enjoys every part of his work, from working in the FrontEnd or Backend, to communicating and collaborating, with different people, towards a common goal. </h3></div>
 <p align="center"> <img align="right" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="amin" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwarjitme" alt="anwarjitme" /></a> </p>
 
