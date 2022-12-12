@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/anwarjitme/anwarjitme/blob/main/Anwar%20Hossain.png) -->
 <img align="center" src="https://github.com/anwarjitme/anwarjitme/blob/main/Anwar%20Hossain.png" alt="logo" />
-<h1 align="center">Hi 👋, I'm Anwar Hossain</h1>
-<h3 align="center">A passionate full stack web developer</h3>
+<h1 align="left">Hi 👋, I'm Anwar Hossain</h1>
+<h3 align="left">A passionate full stack web developer</h3>
 <img align="right" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="amin" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwarjitme" alt="anwarjitme" /></a> </p>
 
