@@ -22,7 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarjitme&show_icons=true&locale=en" alt="anwarjitme" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarjitme&" alt="anwarjitme" /></p>
-<img src="https://github-readme-stats.vercel.app/api?username=anwarjitme&theme=radical" alt="stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=anwarjitme&theme=radical" alt="stats" /> -->
 
 
 
